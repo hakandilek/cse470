@@ -1,5 +1,8 @@
 demo1 - a simple floating point calculator
 ======
+ - using JUnit library
+   licensed under [CPL](https://github.com/KentBeck/junit/blob/master/LICENSE)
+   
  - setUp method for preparing test case
  - tearDown method for cleaning up threads/objects
  - tests are unordered
